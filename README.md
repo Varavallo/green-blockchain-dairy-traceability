@@ -1,4 +1,4 @@
-# Fontina PDO Traceability Platform — Green Blockchain
+# Fontina PDO Traceability Platform - Green Blockchain
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Paper](https://img.shields.io/badge/Paper-10.3390%2Fsu14063321-blue)](https://doi.org/10.3390/su14063321)
