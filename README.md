@@ -143,7 +143,7 @@ signed_tx = tx.sign(account_private_key)
 algodclient.send_transaction(signed_tx)
 ```
 
-Each operator holds an individual Algorand wallet. Data is queried once across all phases at packaging time and submitted as a single transaction — keeping costs and energy consumption minimal. A verified example transaction is available on the [Algorand Explorer](https://algoexplorer.io/tx/Y4MTZNRYYD3ZAAG2XY6YIX6UKOWWNJNLKRCIPQ6KKLXM3QXLB5GQ).
+Each operator holds an individual Algorand wallet. Data is queried once across all phases at packaging time and submitted as a single transaction — keeping costs and energy consumption minimal.
 
 ---
 
