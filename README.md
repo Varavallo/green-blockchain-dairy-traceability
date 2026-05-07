@@ -197,8 +197,8 @@ If you use this code or find this work useful, please cite:
 @article{varavallo2022traceability,
   title     = {Traceability Platform Based on Green Blockchain:
                An Application Case Study in Dairy Supply Chain},
-  author    = {Varavallo, Giuseppe and Caragnano, Giuseppe and
-               Bertone, Fabrizio and Vernetti-Prot, Luca and Terzo, Olivier},
+  author    = {Varavallo, Caragnano,
+               Bertone, Vernetti-Prot, Terzo},
   journal   = {Sustainability},
   volume    = {14},
   number    = {6},
