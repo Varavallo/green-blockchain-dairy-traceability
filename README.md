@@ -214,7 +214,7 @@ If you use this code or find this work useful, please cite:
 ## Authors
 
 **Giuseppe Varavallo** — LINKS Foundation, Turin
-✉ giuseppe.varavallo@linksfoundation.com
+✉ giuseppe.varavallo@unito.it
 
 **Giuseppe Caragnano** — LINKS Foundation, Turin
 
