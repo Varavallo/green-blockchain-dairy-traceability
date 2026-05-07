@@ -109,7 +109,7 @@ Milk_analysis ──────────────────────
 
 **`Seasoning`** — tracks the maturation phase: start/end dates, warehouse location, number of forms branded by CTF, lot ID.
 
-**`Classifica`** — records the CTF quality audit: forms evaluated, branded, and downgraded per lot.
+**`Classify`** — records the CTF quality audit: forms evaluated, branded, and downgraded per lot.
 
 **`Packaging`** — triggers the blockchain transaction; records packaging date, shelf life, and generates the QR Code linking to the Algorand explorer.
 
