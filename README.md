@@ -147,26 +147,7 @@ Each operator holds an individual Algorand wallet. Data is queried once across a
 
 ---
 
-## Repository Structure
 
-```
-fontina-blockchain-traceability/
-├── README.md
-├── LICENSE
-├── docs/
-│   └── paper_su14063321.pdf          # Published paper (open access)
-├── platform/
-│   ├── models.py                     # Django data model (all supply chain phases)
-│   ├── algorand_integration.py       # Algorand SDK transaction logic
-│   └── sample_transaction.json       # Example JSON payload sent to blockchain
-├── data/
-│   └── sample_dataset.csv            # Anonymized sample dataset
-└── figures/
-    ├── architecture.png              # High-level platform architecture
-    └── supply_chain_flow.png         # Fontina PDO production chain
-```
-
----
 
 ## Requirements
 
